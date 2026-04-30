@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nikhila1402
+- 👋 Hi, I’m @nikhila
 - 👀 I’m interested in web development
-- 🌱 I’m currently pursuing Btech final Year
+- 🌱 Btech graduate
 
 <!---
 nikhila1402/nikhila1402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
